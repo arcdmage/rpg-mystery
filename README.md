@@ -7,7 +7,7 @@ This is our final project for the first semester of CPE102 (Programming Logic an
 - Fabela
 - Nucum
 
-#The requirements for this project are as follows;
+# The requirements for this project are as follows;
 - Main Menu – Start Game, Instructions, and Exit.
 - Game Objective – A clearly defined goal for the player.
 - Player Interaction – Keyboard-based user input.
